@@ -1,0 +1,10 @@
+GET http://localhost:8080/cats/pair/1
+
+###
+GET http://localhost:8080/cats
+
+###
+POST http://localhost:8080/cats/vote/1
+
+###
+POST http://localhost:8080/user/add/sasha
